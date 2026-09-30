@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app\\\\page.tsx -> ./components/SimulationMap\":{\"id\":\"app\\\\page.tsx -> ./components/SimulationMap\",\"files\":[\"static/css/_app-pages-browser_app_components_SimulationMap_tsx.css\",\"static/chunks/_app-pages-browser_app_components_SimulationMap_tsx.js\"]}}"

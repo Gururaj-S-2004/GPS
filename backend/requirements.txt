@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+websockets
+geopy
+shapely
+pydantic
+pytest
